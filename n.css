@@ -1,0 +1,22 @@
+html{background: rgb(157, 144, 199);}
+hr{background: red;}
+h1{background:rgb(112, 8, 141) ;text-align: center;border:  solid rgb(204, 234, 196) 7px}
+h2{background: greenyellow;}
+h3{background: rgb(135, 119, 226);border: 4px solid rebeccapurple}
+h4{background: white;border:solid rgb(16, 5, 64);}
+h1{color: aliceblue;}
+li{font-size: x-large;}
+.page{background:rgb(207, 75, 167) ;text-align: center;}
+h2[cv="2"]{text-align: center;}
+p{font-size: 23px;}
+img{border: solid rgb(24, 99, 85) 7px;}
+table{border:solid 5px rgb(50, 19, 154);width: 100%;text-align: center;}
+td{border:solid 2px rgb(20, 1, 150);font-size: x-large;}
+th{border:solid 3px rgb(129, 63, 4);background: rgb(19, 19, 18); color: aliceblue;}
+th{height: 30px;}
+caption{font-size: xx-large; color: rgb(92, 30, 1);}
+footer{color: blue;}
+audio{width: 100%;}
+img{height: 300px;}
+button{font-size: x-large;background: rgb(225, 239, 124);
+    font-variant-caps: all-petite-caps;flex-wrap: nowrap;}
